@@ -12,7 +12,6 @@
 6. [Code Refactoring](#6-code-refactoring)
 7. [Deployment](#7-deployment)
 8. [Usage](#8-usage)
-9. [License](#9-license)
 
 ## 1. Introduction
 
